@@ -1,14 +1,22 @@
+<div align="center">
+
 # Hi there, I'm Dommeti Sri Durga Prasad 👋
 
-<p align="left">
+<p>
   <a href="mailto:sridurgaprasaddommeti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sri-durga-prasad-dommeti-753695290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/SriDurgaPrasadDommeti"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+</div>
+
 ---
 
+<div align="center">
+
 ## 👨‍💻 About Me
+
+</div>
 
 - 🔭 Java Developer at **Longbow Technologies, Hyderabad**
 - 💼 1+ year of experience building scalable **RESTful APIs** and backend systems
@@ -17,6 +25,8 @@
 - 📍 Hyderabad, India
 
 ---
+
+<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -30,9 +40,15 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+</div>
+
 ---
 
+<div align="center">
+
 ## 🚀 Projects
+
+</div>
 
 ### 🏥 WhiteCoats – CRM Web-Based Platform
 > A CRM platform for doctor onboarding, campaign management, and lead conversion.
@@ -42,8 +58,6 @@
 - Integrated **Zoho CRM APIs** using RestTemplate and WebClient
 - Implemented pagination, sorting, centralized exception handling with `@ControllerAdvice`
 - **Tech:** Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL, Zoho CRM API, Postman
-
----
 
 ### 🌾 AgriConnect – Multilingual Agritech Marketplace
 > A multilingual marketplace connecting farmers directly with buyers, eliminating intermediaries.
@@ -56,13 +70,26 @@
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriDurgaPrasadDommeti&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriDurgaPrasadDommeti&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SriDurgaPrasadDommeti&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SriDurgaPrasadDommeti&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriDurgaPrasadDommeti&layout=compact&theme=tokyonight" />
+
+</div>
 
 ---
 
+<div align="center">
+
 ⭐️ *Feel free to explore my repositories and connect with me!*
+
+</div>
