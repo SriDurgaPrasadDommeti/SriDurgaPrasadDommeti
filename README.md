@@ -19,7 +19,7 @@
 </div>
 
 - 🔭 Java Developer at **Longbow Technologies, Hyderabad**
-- 💼 1+ year of experience building scalable **RESTful APIs** and backend systems
+- 💼 1 year of experience building scalable **RESTful APIs** and backend systems
 - 🌱 Currently working with **Spring Boot, Microservices, and MySQL**
 - 🎓 B.Tech in Electronics & Communication Engineering — **Bapatla Engineering College** (CGPA: 8.54)
 - 📍 Hyderabad, India
